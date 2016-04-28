@@ -1,0 +1,3 @@
+Total =
+Average = 
+Last = 
